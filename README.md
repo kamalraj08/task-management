@@ -1,43 +1,4 @@
 
-# Pro Manage => Project Task Manager
-
-
-### This is the final evaluation project by cuvette
-![Logo](./ReadMeAssets/logo.png)
-
-
-## Authors
-
-- [@AJIT-KUMAR-PANDIT](https://www.github.com/AJIT-KUMAR-PANDIT)
-
-
-## Deployment
-
-- [Deployed Link](https://promanage.vercel.app)
-
-
-## Screenshots
-
-### Register
-
-![App Screenshot](./ReadMeAssets/register.png)
-
-### Dashboard
-
-![App Screenshot](./ReadMeAssets/bashboard.png)
-
-### Analytics
-
-![App Screenshot](./ReadMeAssets/analytics.png)
-
-### Settings
-
-![App Screenshot](./ReadMeAssets/settings.png)
-
-### Public
-
-![App Screenshot](./ReadMeAssets/public.png)
-
 Checklist
 
 1. User can login and register to the application, only logged in users can create tasks
